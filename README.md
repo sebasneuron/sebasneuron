@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h2 align="center">
-  Senior Full‑Stack • Blockchain • AI
+  Senior Full‑Stack • Blockchain • AI Game
 </h2>
 
 <p align="center">
@@ -13,6 +13,13 @@
   <a href="https://x.com/SebasNeuron">
     <img src="https://img.shields.io/badge/X-@SebasNeuron-000?style=flat&logo=x&logoColor=white" />
   </a>
+  <a href="https://web3.career/@0xsebasneuron">
+    <img src="https://img.shields.io/badge/Web3.Career-Profile-8B5CF6?style=flat" alt="Web3 Career Profile" />
+  </a>
+</p>
+
+<p align="center">
+  <strong><a href="https://web3.career/@0xsebasneuron">View my Web3 Career profile →</a></strong>
 </p>
 
 ## About
