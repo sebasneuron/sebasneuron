@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h2 align="center">
-  Senior Full‑Stack • Blockchain • AI Engineer
+  Senior Full‑Stack • Blockchain • AI
 </h2>
 
 <p align="center">
@@ -15,16 +15,16 @@
   </a>
 </p>
 
-## About me
+## About
 
-I'm a senior Web3 engineer and full‑stack developer focused on high‑impact blockchain products and AI‑augmented experiences. I ship secure smart‑contract systems, performant dApps, and polished UIs with a strong emphasis on reliability, scalability, and developer ergonomics.
+I build Web3 products and full‑stack apps—smart contracts, dApps, and UIs. I care about things actually working in production and not being a pain to maintain. Also do a fair bit with AI: agents, pipelines, and tooling around on-chain data and execution.
 
-## Web3 and AI focus
+## What I work with
 
 - **Chains:** Solana, EVM (Ethereum + L2s), Sui, Hyperliquid, Bitcoin, XRP, MetaverseX
-- **Smart‑contract languages:** Rust, Move, Solidity
-- **Product areas:** DeFi, DAO, perpetuals, launchpads, gaming (P2E/NFT), trading infra
-- **AI:** on‑chain agents, data pipelines, strategy automation, conversational tooling
+- **Contracts:** Rust, Move, Solidity
+- **Product stuff:** DeFi, DAOs, perpetuals, launchpads (KYC/vesting), P2E/NFT games, trading infra
+- **AI:** on-chain agents, data pipelines, strategy automation, chat-style controls for dApps
 
 ## Tech stack
 
@@ -68,19 +68,18 @@ I'm a senior Web3 engineer and full‑stack developer focused on high‑impact b
 
 ## Selected work
 
-> A few representative projects from my portfolio. Ask me for a deeper dive or private demos.
+Some things I've shipped (can go deeper or share demos if you're interested):
 
-- NFT battle game, P2E game, casino suites with on‑chain economies and marketplaces
-- DeFi primitives, DAO governance flows, and token launchpads with KYC/vesting
-- Perpetual trading UIs with risk controls, liquidations, and real‑time charts
-- Pokemon‑themed Web3 project with collectibles, battling, and progression loops
-- Solana trading bots: sniper, bundler, volume/market‑making; strategy automation
-- Web3 AI agents for monitoring, execution, and conversational controls over dApps
+- NFT battle games, P2E games, casino-style apps with on-chain economies and marketplaces
+- DeFi bits, DAO governance, token launchpads with KYC and vesting
+- Perp trading UIs—risk, liquidations, real-time charts—plus Solana bots (sniper, bundler, volume/market-making)
+- Pokemon-themed Web3 thing: collectibles, battling, progression
+- Web3 AI agents for monitoring, running stuff, and talking to dApps
 
-## Experience snapshots
+## Experience
 
-- Designed and shipped smart‑contract systems (Rust/Move/Solidity) for multiple chains
-- Built scalable Next.js front‑ends with wallet integration and transactional UX
-- Implemented trading infra and bots (sniper/bundler/volume) on Solana
-- Delivered AI agents and analytics that augment on‑chain decisions and ops
-- Optimized performance: code‑splitting, caching, streaming, and SSR/ISR strategies
+- Smart contracts (Rust/Move/Solidity) on multiple chains, from design to deployment
+- Next.js front ends with wallets and solid transaction UX
+- Solana trading bots and tooling (sniper, bundler, volume strategies)
+- AI agents and analytics around on-chain data and ops
+- Performance work: code-splitting, caching, streaming, SSR/ISR
