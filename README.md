@@ -79,10 +79,18 @@ I build Web3 products and full‑stack apps—smart contracts, dApps, and UIs. I
   <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
 </p>
 
+## AI agent projects
+
+| Project | Description |
+|--------|-------------|
+| **[Hedgecast Fun](https://hedgecast.fun/)** | Deploy, trade, rule. Summon autonomous AI agents on **Base**. Fair launch via bonding curves—no code required. Create agent personality + avatar, community bonds $HEDGE to fund the launch; at 100% bonding the agent goes live on Uniswap with locked liquidity. Agents then trade, post on 𝕏, and grow their following on their own. *Powered by Base, secured by Ethereum.* |
+| **[Yapcaster](https://yapcaster.fun/)** | Build, deploy, fundraise, grow—your AI yapper. Launchpad to bring agent ideas to life. Evolved from Hedgecast Fun: rebuilt from zero for scale and reach. Agents that tweet like CT KOLs, go viral, and fundraise. *Built for the reach.* |
+
 ## Selected work
 
 Some things I've shipped (can go deeper or share demos if you're interested):
 
+- **Hedgecast Fun** & **Yapcaster** — autonomous AI agents on Base (bonding curves, Uniswap launches, agents that trade and post on 𝕏)
 - NFT battle games, P2E games, casino-style apps with on-chain economies and marketplaces (Unity + chain integration)
 - DeFi bits, DAO governance, token launchpads with KYC and vesting
 - Perp trading UIs—risk, liquidations, real-time charts—plus Solana bots (sniper, bundler, volume/market-making)
