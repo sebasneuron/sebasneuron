@@ -23,6 +23,7 @@ I build Web3 products and full‑stack apps—smart contracts, dApps, and UIs. I
 
 - **Chains:** Solana, EVM (Ethereum + L2s), Sui, Hyperliquid, Bitcoin, XRP, MetaverseX
 - **Contracts:** Rust, Move, Solidity
+- **Game dev:** Unity, C#—gameplay and economies wired to chain (NFTs, tokens, P2E, in-game assets)
 - **Product stuff:** DeFi, DAOs, perpetuals, launchpads (KYC/vesting), P2E/NFT games, trading infra
 - **AI:** on-chain agents, data pipelines, strategy automation, chat-style controls for dApps
 
@@ -44,6 +45,11 @@ I build Web3 products and full‑stack apps—smart contracts, dApps, and UIs. I
   <img src="https://img.shields.io/badge/Metaplex-512DA8?style=flat" />
   <img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat&logo=ipfs&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
+
+  <!-- Game dev (blockchain-integrated) -->
+  <img src="https://img.shields.io/badge/Unity-000?style=flat&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Game_Dev-8B5CF6?style=flat" />
 
   <!-- Core -->
   <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs" />
@@ -70,7 +76,7 @@ I build Web3 products and full‑stack apps—smart contracts, dApps, and UIs. I
 
 Some things I've shipped (can go deeper or share demos if you're interested):
 
-- NFT battle games, P2E games, casino-style apps with on-chain economies and marketplaces
+- NFT battle games, P2E games, casino-style apps with on-chain economies and marketplaces (Unity + chain integration)
 - DeFi bits, DAO governance, token launchpads with KYC and vesting
 - Perp trading UIs—risk, liquidations, real-time charts—plus Solana bots (sniper, bundler, volume/market-making)
 - Pokemon-themed Web3 thing: collectibles, battling, progression
@@ -79,6 +85,7 @@ Some things I've shipped (can go deeper or share demos if you're interested):
 ## Experience
 
 - Smart contracts (Rust/Move/Solidity) on multiple chains, from design to deployment
+- Unity game dev with blockchain integration (NFTs, tokens, P2E, wallet connect in-game)
 - Next.js front ends with wallets and solid transaction UX
 - Solana trading bots and tooling (sniper, bundler, volume strategies)
 - AI agents and analytics around on-chain data and ops
