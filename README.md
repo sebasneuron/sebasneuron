@@ -1,7 +1,6 @@
-<!-- Profile Header -->
-<h2 align="center">
-  Senior Full‑Stack • Blockchain • AI Game
-</h2>
+<!-- ================= HEADER ================= -->
+
+<h2 align="center">Senior Full-Stack AI & Blockchain Engineer</h2>
 
 <p align="center">
   <a href="mailto:springers230@gmail.com">
@@ -14,7 +13,7 @@
     <img src="https://img.shields.io/badge/X-@SebasNeuron-000?style=flat&logo=x&logoColor=white" />
   </a>
   <a href="https://web3.career/@0xsebasneuron">
-    <img src="https://img.shields.io/badge/Web3.Career-Profile-8B5CF6?style=flat" alt="Web3 Career Profile" />
+    <img src="https://img.shields.io/badge/Web3.Career-Profile-8B5CF6?style=flat" />
   </a>
 </p>
 
@@ -22,86 +21,148 @@
   <strong><a href="https://web3.career/@0xsebasneuron">View my Web3 Career profile →</a></strong>
 </p>
 
-## About
+<hr/>
 
-I build Web3 products and full‑stack apps—smart contracts, dApps, and UIs. I care about things actually working in production and not being a pain to maintain. Also do a fair bit with AI: agents, pipelines, and tooling around on-chain data and execution.
+<!-- ================= ABOUT ================= -->
 
-## What I work with
-
-- **Chains:** Solana, EVM (Ethereum + L2s), Sui, Hyperliquid, Bitcoin, XRP, MetaverseX
-- **Contracts:** Rust, Move, Solidity
-- **Game dev:** Unity, C#—gameplay and economies wired to chain (NFTs, tokens, P2E, in-game assets)
-- **Product stuff:** DeFi, DAOs, perpetuals, launchpads (KYC/vesting), P2E/NFT games, trading infra
-- **AI:** on-chain agents, data pipelines, strategy automation, chat-style controls for dApps
-
-## Tech stack
+<h3>About Me</h3>
 
 <p>
-  <!-- Web3 / Blockchain -->
-  <img src="https://img.shields.io/badge/Web3-121212?style=flat" />
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solana-4E44CE?style=flat&logo=solana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sui-0A2540?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiLz48L3N2Zz4=" />
-  <img src="https://img.shields.io/badge/Hyperliquid-1A1A1A?style=flat" />
-  <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Move-4B4B4B?style=flat" />
-  <img src="https://img.shields.io/badge/Ethers.js-253858?style=flat" />
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat" />
-  <img src="https://img.shields.io/badge/Anchor-262626?style=flat" />
-  <img src="https://img.shields.io/badge/Metaplex-512DA8?style=flat" />
-  <img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat&logo=ipfs&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
-
-  <!-- Game dev (blockchain-integrated) -->
-  <img src="https://img.shields.io/badge/Unity-000?style=flat&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Game_Dev-8B5CF6?style=flat" />
-
-  <!-- Core -->
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/React-20232a?style=flat&logo=react" />
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind-38bdf8?style=flat&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Radix_UI-111?style=flat" />
-  <img src="https://img.shields.io/badge/shadcn/ui-000?style=flat" />
-  <img src="https://img.shields.io/badge/Framer%20Motion-000?style=flat&logo=framer" />
-
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-3c873a?style=flat&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-e0234e?style=flat&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST-0ea5e9?style=flat" />
-  <img src="https://img.shields.io/badge/Prisma-2d3748?style=flat&logo=prisma" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-d82c20?style=flat&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white" />
+Senior Full-Stack Engineer specializing in blockchain protocols and AI-driven systems.
+I build secure, scalable Web3 products including smart contracts, decentralized applications (dApps),
+and high-performance user interfaces.
 </p>
 
-## AI agent projects
+<p>
+Focused on production-ready architecture with strong emphasis on:
+• Maintainability  
+• Security  
+• Performance  
+</p>
 
-| Project | Description |
-|--------|-------------|
-| **[Hedgecast Fun](https://hedgecast.fun/)** | Deploy, trade, rule. Summon autonomous AI agents on **Base**. Fair launch via bonding curves—no code required. Create agent personality + avatar, community bonds $HEDGE to fund the launch; at 100% bonding the agent goes live on Uniswap with locked liquidity. Agents then trade, post on 𝕏, and grow their following on their own. *Powered by Base, secured by Ethereum.* |
-| **[Yapcaster](https://yapcaster.fun/)** | Build, deploy, fundraise, grow—your AI yapper. Launchpad to bring agent ideas to life. Evolved from Hedgecast Fun: rebuilt from zero for scale and reach. Agents that tweet like CT KOLs, go viral, and fundraise. *Built for the reach.* |
+<p>
+Extensive experience integrating AI agents for on-chain automation, analytics pipelines,
+strategy execution, and conversational dApp interfaces.
+</p>
 
-## Selected work
+<hr/>
 
-Some things I've shipped (can go deeper or share demos if you're interested):
+<!-- ================= WHAT I WORK WITH ================= -->
 
-- **Hedgecast Fun** & **Yapcaster** — autonomous AI agents on Base (bonding curves, Uniswap launches, agents that trade and post on 𝕏)
-- NFT battle games, P2E games, casino-style apps with on-chain economies and marketplaces (Unity + chain integration)
-- DeFi bits, DAO governance, token launchpads with KYC and vesting
-- Perp trading UIs—risk, liquidations, real-time charts—plus Solana bots (sniper, bundler, volume/market-making)
-- Pokemon-themed Web3 thing: collectibles, battling, progression
-- Web3 AI agents for monitoring, running stuff, and talking to dApps
+<h3>What I Work With</h3>
 
-## Experience
+<b>Chains:</b><br/>
+Solana, Ethereum (EVM + L2s: Base, Optimism, Arbitrum), Sui, Hyperliquid, Bitcoin, XRP Ledger, MetaverseX
 
-- Smart contracts (Rust/Move/Solidity) on multiple chains, from design to deployment
-- Unity game dev with blockchain integration (NFTs, tokens, P2E, wallet connect in-game)
-- Next.js front ends with wallets and solid transaction UX
-- Solana trading bots and tooling (sniper, bundler, volume strategies)
-- AI agents and analytics around on-chain data and ops
-- Performance work: code-splitting, caching, streaming, SSR/ISR
+<br/><br/>
+
+<b>Smart Contracts:</b><br/>
+Rust (Anchor), Move, Solidity
+
+<br/><br/>
+
+<b>Game Development:</b><br/>
+Unity + C# (NFT economies, P2E mechanics, in-game assets, blockchain integration)
+
+<br/><br/>
+
+<b>Product Domains:</b><br/>
+• DeFi protocols  
+• DAOs  
+• Perpetual trading platforms  
+• Token launchpads (KYC + vesting)  
+• P2E / NFT games  
+• Trading infrastructure  
+
+<br/><br/>
+
+<b>AI Systems:</b><br/>
+• On-chain AI agents  
+• Trading automation  
+• Analytics pipelines  
+• Strategy bots  
+• Conversational dApp interfaces  
+
+<hr/>
+
+<!-- ================= TECH STACK ================= -->
+
+<h3>Tech Stack</h3>
+
+<p>
+<b>Frontend:</b><br/>
+Next.js, React, TypeScript, Tailwind, Radix UI, shadcn/ui, Framer Motion
+</p>
+
+<p>
+<b>Backend:</b><br/>
+Node.js, NestJS, Python, Java, REST APIs, Prisma
+</p>
+
+<p>
+<b>Databases:</b><br/>
+PostgreSQL, Redis
+</p>
+
+<p>
+<b>Web3:</b><br/>
+Solidity, Rust, Move, Anchor, Ethers.js, Web3.js, Metaplex, IPFS
+</p>
+
+<p>
+<b>AI:</b><br/>
+OpenAI, data pipelines, autonomous agents
+</p>
+
+<hr/>
+
+<!-- ================= AI AGENT PROJECTS ================= -->
+
+<h3>AI Agent Projects</h3>
+
+<b>Hedgecast Fun</b><br/>
+Platform for deploying autonomous AI agents on Base using bonding curves.
+Enables no-code agent creation with custom personalities and avatars.
+Community funding via $HEDGE bonds triggers Uniswap launches with locked liquidity.
+Agents autonomously trade and engage on X.
+Built on Base and secured by Ethereum.
+
+<br/><br/>
+
+<b>Yapcaster</b><br/>
+Scalable AI agent launchpad focused on deployment, fundraising, and growth.
+Evolution of Hedgecast Fun with improved performance and scalability.
+Agents simulate crypto KOL behavior, drive virality, and facilitate fundraising.
+
+<hr/>
+
+<!-- ================= SELECTED WORK ================= -->
+
+<h3>Selected Work</h3>
+
+• Autonomous AI agents on Base with bonding curves, Uniswap integration, and trading automation  
+• NFT battle games and P2E ecosystems integrated via Unity + blockchain  
+• DAO governance systems and token launchpads with vesting + KYC  
+• Perpetual trading UIs with liquidation handling and real-time charting  
+• Solana bots (sniping, bundling, volume generation, market-making)  
+• Pokemon-inspired Web3 collectibles system with progression and on-chain ownership  
+• AI monitoring agents for automation and analytics  
+
+<hr/>
+
+<!-- ================= EXPERIENCE ================= -->
+
+<h3>Experience</h3>
+
+• Smart contract development (Rust, Move, Solidity) across multiple chains  
+• Security review participation and mainnet deployments  
+• Unity blockchain game integrations with wallet connections  
+• Solana trading bots and automation tooling  
+• AI-powered on-chain analytics and monitoring systems  
+• Performance optimization (SSR/ISR, streaming, caching, gas-efficient architecture)  
+
+<hr/>
+
+<p align="center">
+  Open to collaboration, high-performance systems, and advanced Web3 infrastructure.
+</p>
