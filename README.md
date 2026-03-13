@@ -14,7 +14,7 @@
   </a>
 </p>
 <p align="center">
-  <strong><a href="https://web3.career/@0xsebasneuron">View my Web3 Career profile →</a></strong>
+  <strong><a href="https://web3.career/@sebasneuron">View my Web3 Career profile →</a></strong>
 </p>
 <hr/>
 <h3>About Me</h3>
