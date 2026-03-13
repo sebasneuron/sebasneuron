@@ -6,9 +6,6 @@
   <a href="https://t.me/SebasNeuron">
     <img src="https://img.shields.io/badge/Telegram-@SebasNeuron-2AABEE?style=flat&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://x.com/SebasNeuron">
-    <img src="https://img.shields.io/badge/X-@SebasNeuron-000?style=flat&logo=x&logoColor=white" />
-  </a>
   <a href="https://web3.career/@0xsebasneuron">
     <img src="https://img.shields.io/badge/Web3.Career-Profile-8B5CF6?style=flat" />
   </a>
